@@ -26,7 +26,7 @@ Este proyecto implementa una simulación detallada de las operaciones en un puer
 ## Cómo Usar
 1. Clona este repositorio:
    ```bash
-   git clone <https://github.com/JaimePerdigueroAlonso/Enviroment-Python/tree/main/CODIGO%20PY>
+   git clone <https://github.com/JaimePerdigueroAlonso/Enviroment-Python.git>
    ```
 2. Instala las dependencias necesarias:
    ```bash
